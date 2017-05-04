@@ -5,6 +5,7 @@ Sudoku Solver done in Phase 1 of Dev Bootcamp within the first week of learning 
 All code was done in ruby without the use of classes or instance or global variables.
 
 To run simply clone and run ruby runner.rb.
+
 If you wish to add a board to try simply enter it in string format into the sudoku_puzzles.txt file. EX: 8----------36------7--9-2---5---7-------457-----1---3---1----68--85---1--9----4--
 
 ## Summary
